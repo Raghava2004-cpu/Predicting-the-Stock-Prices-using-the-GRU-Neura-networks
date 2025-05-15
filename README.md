@@ -26,3 +26,10 @@ This project uses a Gated Recurrent Unit (GRU) neural network in PyTorch to pred
 
    '''blash
     pip install -r requirements.txt
+
+
+![Screenshot 2025-05-15 125902](https://github.com/user-attachments/assets/8cb96520-d45a-47b3-ac72-98faa652b7fb)
+![Screenshot 2025-05-15 125946](https://github.com/user-attachments/assets/e5f4c491-ea96-42de-ae3d-99039b43f5cd)
+![Screenshot 2025-05-15 125956](https://github.com/user-attachments/assets/7b416e92-2e63-4130-9ddd-d06fc00ec510)
+
+
