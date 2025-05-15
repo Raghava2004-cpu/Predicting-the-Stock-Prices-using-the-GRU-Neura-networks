@@ -24,5 +24,5 @@ This project uses a Gated Recurrent Unit (GRU) neural network in PyTorch to pred
    git clone https://github.com/Raghava2004-cpu/Predicting-the-Stock-Prices-using-the-GRU-Neura-networks.git
    cd Predicting-the-Stock-Prices-using-the-GRU-Neura-networks-gru
 
-
-pip install -r requirements.txt
+   '''blash
+    pip install -r requirements.txt
